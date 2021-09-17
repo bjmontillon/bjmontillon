@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bjmontillon
-- 👀 I’m interested in Front-end Development.
-- 🌱 I’m currently learning REACT.
-- 💞️ I’m looking to collaborate on small projects
+- 👀 interested in Front-end Development.
+- 🌱 currently learning REACT.
+- 💞️ looking to collaborate on small projects
 - 📫 pangilinanbj@gmail.com
 
 <!---
